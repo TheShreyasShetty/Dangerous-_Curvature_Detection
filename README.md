@@ -19,8 +19,6 @@ This repository contains the code for the Dangerous Curvature Detection project,
 
 ## 2. Project Overview
 
-The Dangerous Curvature Detection project utilizes a combination of image processing techniques and convolutional neural networks (CNNs) to detect dangerous curves in images. The main components of the project are as follows:
-
 - **Data Collection**: The dataset used in this project comprises images of objects with and without dangerous curvatures. The data was collected from various sources and manually labeled for training and testing purposes.
 
 - **Preprocessing**: The collected data undergoes preprocessing to remove noise, resize images, and augment the dataset for improved model generalization.
